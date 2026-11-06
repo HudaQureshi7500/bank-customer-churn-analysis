@@ -49,7 +49,7 @@ Completed – October 2026.
 ## Dashboard Preview
 
 ### Bank Customer Churn Analysis
-![Bank Churn Analysis](screenshots/bank%20churn%20analysis.png)
+![Bank Churn Analysis](bank%20churn%20analysis.png)
 
 ### Time Intelligence Analysis
-![Bank Churn Time Intelligence](screenshots/bank%20churn%20time%20intelligence.png)
+![Time Intelligence Analysis](bank%20churn%20time%20intelligence.png)
