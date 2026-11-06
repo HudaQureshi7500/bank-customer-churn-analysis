@@ -46,3 +46,10 @@ Completed – October 2026.
 **Author:** Noor Ul Huda Qureshi
 
 [GitHub Profile](https://github.com/HudaQureshi7500)
+## Dashboard Preview
+
+### Bank Customer Churn Analysis
+![Bank Churn Analysis](screenshots/bank%20churn%20analysis.png)
+
+### Time Intelligence Analysis
+![Bank Churn Time Intelligence](screenshots/bank%20churn%20time%20intelligence.png)
